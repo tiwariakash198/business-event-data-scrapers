@@ -1,0 +1,18 @@
+# Generated data and run state (not committed)
+*.xlsx
+*.xls
+*.csv
+*.json
+non_events.txt
+*.log
+
+# Python and environment
+__pycache__/
+.venv/
+.env
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
